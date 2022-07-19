@@ -8,5 +8,5 @@ Pagina de projeto teste da alura, aulas com
 #VDS
 
 ```
-npm install qualquer-coisa
+node app.js
 ```
